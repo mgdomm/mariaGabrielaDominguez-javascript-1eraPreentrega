@@ -76,7 +76,7 @@ let tarjetas = ['Visa', 'Mastercard', 'PayPal']
 
 
 
-// Introducción
+// Introducción y bienvenida
 alert('Welcome to MG Travel Guide!! Request your travel budget NOW!')
 
 
